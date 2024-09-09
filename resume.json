@@ -1,0 +1,202 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Dmytro Smahulov",
+    "label": "Software Engineer",
+    "image": "",
+    "email": "dimmond1982@hotmail.com",
+    "url": "",
+    "phone": "+380632553244",
+    "summary": "Software developer with 8 years of experience in designing and implementing dynamic web applications and client-server solutions. Expert in Ruby and Ruby on Rails, with substantial experience leveraging cloud technologies (AWS) and front-end frameworks like React and Vue. Proven track record in both startup and enterprise settings, delivering high-quality software that meets user needs. Passionate about crafting innovative solutions, tackling complex challenges, and developing products that make a difference.",
+    "location": {
+      "city": "Ivano-Frankivsk",
+      "countryCode": "Ukraine",
+      "region": "Ivano-Frankivsk"
+    }
+  },
+  "work": [
+    {
+      "name": "SoftServe",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "SoftServe is the bigest Ukranian digital consulting company.",
+      "position": "Software Engineer | Dev Lead",
+      "url": "https://www.softserveinc.com/",
+      "startDate": "2020-05-18",
+      "summary": "Managed a feature development team at Cisco Secure Endpoint",
+      "highlights": [
+        "Collaborated in designing a cloud-first microservices architecture to enhance the efficiency of development teams.",
+        "Delivered intricate business-focused features on a monolithic Rails application within an agile scrum environment.",
+        "Built integrations with various security solutions.",
+        "Facilitated data migration across multiple data sources.",
+        "Involved in building and setup deploy process."
+      ]
+    },
+    {
+      "name": "SoftServe",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "SoftServe is the bigest Ukranian digital consulting company.",
+      "position": "Software Engineer",
+      "url": "https://www.softserveinc.com/",
+      "startDate": "2017-12-06",
+      "endDate": "2020-05-17",
+      "summary": "Part of a feature development team at Onelogin",
+      "highlights": [
+        "Built various integration with user managing services GSuite, Workday, BambooHR, AD/LDAP.",
+        "Early partner access integration with AWS EventBridge.",
+        "Developing/bugfix application core features."
+      ]
+    },
+    {
+      "name": "SoftServe",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "SoftServe is the bigest Ukranian digital consulting company.",
+      "position": "Software Engineer",
+      "url": "https://www.softserveinc.com/",
+      "startDate": "2016-01-04",
+      "endDate": "2017-12-05",
+      "summary": "Participated in the pre-launch stage and the construction of the back end and front end for multiple projects",
+      "highlights": [
+        "Support for different legacy ruby applications.",
+        "Developed ecomerce applications which integrated with Shopify.",
+        "Involved in implementing various features for Deliveroo startup which allows customers to create and track deliveries."
+      ]
+    },
+    {
+      "name": "Ukrnafta",
+      "location": {
+        "city": "Ivano-Frankivsk",
+        "region": "Ukraine"
+      },
+      "description": "Ukrnafta - leader in Ukraine’s oil industry.",
+      "position": "Design Engineer",
+      "url": "https://www.ukrnafta.com/en/",
+      "startDate": "2005-06-30",
+      "endDate": "2016-01-03",
+      "summary": "Participated in design of various civil and industrial facilities",
+      "highlights": [
+        "Designed project documentation.",
+        "Support of documentation approval in state supervision bodies."
+      ]
+    }
+  ],
+  "certificates": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "date": "April 07, 2023",
+      "url": "https://www.credly.com/badges/88855751-25be-4200-bb76-e415156964b1/public_url",
+      "issuer": "Amazon Web Services Training and Certification"
+    },
+    {
+      "name": "AWS Partner: Cloud Economics Essentials",
+      "date": "February 21, 2023",
+      "url": "https://www.credly.com/badges/05c3924a-1085-4acd-9198-732322f38bfd/public_url",
+      "issuer": "Amazon Web Services Training and Certification"
+    },
+    {
+      "name": "AWS Partner: Technical Accredited",
+      "date": "February 16, 2023",
+      "url": "https://www.credly.com/badges/78edb2d6-eb62-4aa3-badf-8f32496936e4/public_url",
+      "issuer": "Amazon Web Services Training and Certification"
+    },
+    {
+      "name": "Ruby Association Certified Ruby Programmer Silver",
+      "date": "December 14, 2018",
+      "issuer": "Ruby Association (Certification Number RAS2118580123)"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Ivano-Frankivsk National Technical University of Oil and Gas",
+      "url": "https://nung.edu.ua/en",
+      "area": "Automatization and computer science department",
+      "studyType": "Master's degree",
+      "startDate": "1999-09-01",
+      "endDate": "2005-06-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Back End Development",
+      "level": "Master",
+      "keywords": [
+        "Ruby",
+        "Ruby on Rails",
+        "API Development",
+        "GraphQL",
+        "Rspec",
+        "TDD",
+        "Capybara"
+      ]
+    },
+    {
+      "name": "Databases",
+      "level": "Advanced",
+      "keywords": [
+        "MySQL",
+        "Postgress",
+        "MongoDB",
+        "Cassandra",
+        "Redis"
+      ]
+    },
+    {
+      "name": "Front End",
+      "level": "Intermediate",
+      "keywords": [
+        "HTML5/CSS3",
+        "VueJs",
+        "React",
+        "Bootstrap"
+      ]
+    },
+    {
+      "name": "Other",
+      "level": "Intermediate",
+      "keywords": [
+        "AWS",
+        "Docker",
+        "Terraform",
+        "Unix",
+        "RabbitMQ",
+        "Elasticsearch/OpenSearch"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    },
+    {
+      "language": "Ukranian",
+      "fluency": "Native speaker"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Hiking"
+    },
+    {
+      "name": "Board games"
+    },
+    {
+      "name": "Fishing"
+    }
+  ],
+  "references": [
+  ],
+  "meta": {
+    "canonical": "https://raw.githubusercontent.com/jsonresume/resume-schema/master/resume.json",
+    "version": "v1.0.0",
+    "lastModified": "2024-09-04T15:53:00"
+  }
+}
